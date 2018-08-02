@@ -1,2 +1,4 @@
-# learning-css-grid
-Lerning CSS Grid
+# Learning CSS Grid
+Learning CSS Grid
+
+## References
