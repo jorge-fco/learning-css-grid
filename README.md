@@ -11,4 +11,6 @@ display: grid;
 - grid-gap
 
 ## References
-[Getting Started with CSS Grid](https://www.skillshare.com/) By Rachel Andrew / Twitter : [@rachelandrew](https://twitter.com/rachelandrew)
+[Getting Started with CSS Grid](https://www.skillshare.com/)
+
+By Rachel Andrew / Twitter : [@rachelandrew](https://twitter.com/rachelandrew)
