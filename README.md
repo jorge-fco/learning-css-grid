@@ -10,6 +10,11 @@ display: grid;
 - grid-template-columns
 - grid-gap
 
+
+## Inspired templates
+- Dropbox
+- Twitter
+
 ## References
 [Getting Started with CSS Grid](https://www.skillshare.com/)
 
